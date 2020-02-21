@@ -1,0 +1,46 @@
+.square {
+    flex-basis: 50%;
+    height: 60vh;
+    padding: 1rem;
+    margin: 1rem;
+    background-color: rgb(161, 161, 161);
+    text-align: center;
+}
+
+.wrap {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#console {
+    color: white;
+    background-color: black;
+    height: 20vh;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+header {
+    text-align: center;
+}
+
+.character {
+    height: 30vh;
+    padding-left: 2rem;
+}
+
+button {
+    background-color: #be0a0a;
+    color: white;
+    text-align: center;
+    width: 40%;
+    height: 5vh;
+    margin: 1rem;
+    font-size: 18px;
+}
